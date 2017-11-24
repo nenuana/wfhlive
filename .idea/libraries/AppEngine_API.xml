@@ -1,0 +1,81 @@
+<component name="libraryTable">
+  <library name="AppEngine API">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../appengine-java-sdk-1.9.59/lib/user" />
+      <root url="file://$PROJECT_DIR$/../appengine-java-sdk-1.9.59/lib/opt/user/appengine-endpoints/v1" />
+      <root url="file://$PROJECT_DIR$/../appengine-java-sdk-1.9.59/lib/opt/user/jsr107/v1" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/_ah_compiled_jsps-0000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/appengine-api-labs-1.9.57.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/appengine-endpoints-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/appengine-endpoints.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/appengine-jsr107cache-1.9.57.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-android-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-appengine-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-gson-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-jackson2-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-java6-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-protobuf-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-servlet-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-client-xml-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-services-calendar-v3-rev262-1.23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-android-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-appengine-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-gson-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-jackson-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-jackson2-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-jdo-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-protobuf-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-http-client-xml-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-oauth-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-oauth-client-appengine-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-oauth-client-java6-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-oauth-client-jetty-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-oauth-client-servlet-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/gson-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/guava-jdk5-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/httpclient-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/httpcore-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jackson-core-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.servlet.jsp.jstl-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/javax.transaction-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jetty-6.1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jetty-util-6.1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jsr107cache-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jsr305-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/libservice.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/protobuf-java-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-ant-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-ant-launcher-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-eclipse-jdt-ecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-jakarta-jstl-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-jakarta-standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-jasper-6.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-jasper-el-6.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/repackaged-appengine-tomcat-juli-6.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/transaction-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javax.servlet-3.0.jar/javax.servlet-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-services-calendar-v3-rev262-1.23.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/google-api-services-calendar-v3-rev262-1.23.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wfh/lib/jsr305-1.3.9.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../appengine-java-sdk-1.9.59/lib/opt/user/appengine-endpoints/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../appengine-java-sdk-1.9.59/lib/opt/user/jsr107/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../appengine-java-sdk-1.9.59/lib/user" recursive="false" />
+  </library>
+</component>
